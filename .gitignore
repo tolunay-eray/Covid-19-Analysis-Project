@@ -1,0 +1,15 @@
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+# Excel files
+*.xls
+*.xlsx
+# Image files
+*.png
